@@ -1,0 +1,10 @@
+.listing_row_container {
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.listing_row_container p,
+button {
+  min-width: 200px;
+}
